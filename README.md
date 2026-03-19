@@ -31,6 +31,7 @@ Community-curated directory of apps for [Unicity Sphere](https://github.com/unic
 | `description` | No | Short description shown as tooltip on hover |
 | `url` | Yes | HTTPS URL of your app |
 | `icon` | No | URL to a square icon image (PNG or SVG recommended, min 128x128px) |
+| `hidden` | No | Set to `true` to hide the app from the Sphere desktop (default: `false`) |
 
 ### Categories
 
