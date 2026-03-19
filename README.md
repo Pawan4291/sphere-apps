@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="sphere.svg" width="96" alt="Sphere" />
+</p>
+
 # Sphere Apps
 
 Community-curated directory of apps for [Unicity Sphere](https://github.com/unicity-sphere/sphere). Apps listed in `apps.json` appear automatically in the Sphere desktop.
@@ -14,6 +18,7 @@ Community-curated directory of apps for [Unicity Sphere](https://github.com/unic
 {
   "category": "games",
   "name": "My App",
+  "description": "Short description shown on hover",
   "url": "https://example.com",
   "icon": "https://example.com/logo.png"
 }
@@ -23,6 +28,7 @@ Community-curated directory of apps for [Unicity Sphere](https://github.com/unic
 |-------|----------|-------------|
 | `category` | Yes | Category for grouping in the Sphere desktop (see below) |
 | `name` | Yes | Display name |
+| `description` | No | Short description shown as tooltip on hover |
 | `url` | Yes | HTTPS URL of your app |
 | `icon` | No | URL to a square icon image (PNG or SVG recommended, min 128x128px) |
 

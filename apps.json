@@ -3,17 +3,20 @@
     {
       "category": "dev",
       "name": "Sphere Connect Example",
+      "description": "Example dApp demonstrating Sphere wallet integration via Connect protocol",
       "url": "https://unicity-sphere.github.io/sphere-sdk-connect-example/"
     },
     {
       "category": "games",
       "name": "Boxy Run",
+      "description": "Endless runner game on Unicity",
       "url": "https://unicitynetwork.github.io/Boxy-Run/",
       "icon": "https://raw.githubusercontent.com/unicitynetwork/Boxy-Run/refs/heads/master/logo.png"
     },
     {
       "category": "games",
       "name": "Chess",
+      "description": "Play chess with friends on Unicity",
       "url": "https://mastap.github.io/unicity-sphere-chess/",
       "icon": "https://raw.githubusercontent.com/MastaP/unicity-sphere-chess/refs/heads/main/logo.png"
     }
