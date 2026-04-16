@@ -32,7 +32,8 @@
       "name": "Quake 3 Arena",
       "description": "Classic first-person shooter on Unicity",
       "url": "https://quake.unicity.network/",
-      "icon": "https://raw.githubusercontent.com/unicitynetwork/uniquake/refs/heads/master/quake_logo.png"
+      "icon": "https://raw.githubusercontent.com/unicitynetwork/uniquake/refs/heads/master/quake_logo.png",
+      "hidden": true
     }
   ]
 }
