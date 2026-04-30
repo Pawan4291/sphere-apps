@@ -34,6 +34,13 @@
       "url": "https://quake.unicity.network/",
       "icon": "https://raw.githubusercontent.com/unicitynetwork/uniquake/refs/heads/master/quake_logo.png",
       "hidden": true
+    },
+    {
+      "category": "social",
+      "name": "Sphere Quest",
+      "description": "Gamified social quests and rewards on Unicity",
+      "url": "https://quest.unicity.network/",
+      "icon": "https://quest.unicity.network/favicon.svg"
     }
   ]
 }
