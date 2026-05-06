@@ -8,9 +8,9 @@
     },
     {
       "category": "games",
-      "name": "Boxy Run",
+      "name": "Boxy Run Arena",
       "description": "Endless runner game on Unicity",
-      "url": "https://unicitynetwork.github.io/Boxy-Run/",
+      "url": "https://boxy-run.fly.dev/",
       "icon": "https://raw.githubusercontent.com/unicitynetwork/Boxy-Run/refs/heads/master/logo.png"
     },
     {
