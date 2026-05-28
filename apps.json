@@ -42,12 +42,12 @@
       "url": "https://quest.unicity.network/",
       "icon": "https://quest.unicity.network/favicon.svg"
     },
-{
-  "category": "social",
-  "name": "Sphere Wishing Well",
-  "description": "Community prediction market powered by WishScore on Unicity Sphere.",
-  "url": "https://sphere-wishingwell.vercel.app/",
-  "icon": "https://sphere-wishingwell.vercel.app/icon.png"
-}  
+    {
+      "category": "social",
+      "name": "Sphere Wishing Well",
+      "description": "Community prediction market powered by WishScore on Unicity Sphere.",
+      "url": "https://sphere-wishingwell.vercel.app/",
+      "icon": "https://sphere-wishingwell.vercel.app/icon.png"
+    }
   ]
 }
